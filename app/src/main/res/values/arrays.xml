@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clues">
+        <item> Clue 0: Knows Chinese.</item>
+        <item> Clue 1: Owns 2 Cat.</item>
+        <item> Clue 2: Knows Korean.</item>
+    </string-array>
+</resources>
